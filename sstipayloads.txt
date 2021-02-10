@@ -1,0 +1,42 @@
+bount{{8*\'8\'}}yit
+bount${8*8}yit
+bount<% 8*8 %>yit
+bount#{8*8}yit
+bount@(63+1)yit
+bount#{ 8 * 8 }yit
+bount<%= 8*8 %>yit
+bount{{8*8}}yit
+bount${{8*8}}yit
+bount${{\"{{\"}}8*8{{\"}}\"}}yit
+bount[[8*8]]yit
+bount{@8*8}yit
+bount<# 8*8>yit
+bount{{= 8*8}}yit
+bount${32+32}yit
+bount#{32+32}yit
+bount{{8*'8'}}yit
+bounty{{8*\'8\'}}
+bounty${8*8}
+bounty<% 8*8 %>
+bounty#{8*8}
+bounty@(63+1)
+bounty#{ 8 * 8 }
+bounty<%= 8*8 %>
+bounty{{8*8}}
+bounty${{8*8}}
+bounty${{\"{{\"}}8*8{{\"}}\"}}
+bounty[[8*8]]
+bounty{@8*8}
+bounty<# 8*8>
+bounty{{= 8*8}}
+bounty${32+32}
+bounty#{32+32}
+bounty{{8*'8'}}
+<%= 8 * 8 %>
+#{ 8 * 8 }
+${8*8}
+${{8*8}}
+${32+32} 
+#{32+32}
+{{8*8}}
+{{8*'8'}}
